@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NewsPackage",
+        "repositoryURL": "https://github.com/Agladze-Tekla/APICalls.git",
+        "state": {
+          "branch": "main",
+          "revision": "0d85d54c7444dbde9ee4d2be785edf37a09d5185",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
